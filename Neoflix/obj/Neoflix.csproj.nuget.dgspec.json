@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\Neoflix.csproj": {}
+    "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\Neoflix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\Neoflix.csproj": {
+    "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\Neoflix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\Neoflix.csproj",
+        "projectUniqueName": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\Neoflix.csproj",
         "projectName": "Neoflix",
-        "projectPath": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\Neoflix.csproj",
+        "projectPath": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\Neoflix.csproj",
         "packagesPath": "C:\\Users\\Guarizzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\obj\\",
+        "outputPath": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guarizzo\\AppData\\Roaming\\NuGet\\NuGet.Config",

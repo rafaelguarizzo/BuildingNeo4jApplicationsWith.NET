@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Neoflix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d26ab1197adbe04994085cf7c10ec9f6fc3726e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33e2a524d8bef4e2615b619d241f7ec9967c006")]
 [assembly: System.Reflection.AssemblyProductAttribute("Neoflix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Neoflix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

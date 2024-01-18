@@ -1,155 +1,155 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\app.40cb6fcb.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\app.40cb6fcb.css",
       "PackagePath": "staticwebassets\\css\\app.40cb6fcb.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\login.b93aa172.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\login.b93aa172.css",
       "PackagePath": "staticwebassets\\css\\login.b93aa172.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\movie.view.420ab6d9.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\movie.view.420ab6d9.css",
       "PackagePath": "staticwebassets\\css\\movie.view.420ab6d9.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\people.list.12ebb465.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\people.list.12ebb465.css",
       "PackagePath": "staticwebassets\\css\\people.list.12ebb465.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\people.view.32f8da85.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\people.view.32f8da85.css",
       "PackagePath": "staticwebassets\\css\\people.view.32f8da85.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\css\\register.d6a35621.css",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\css\\register.d6a35621.css",
       "PackagePath": "staticwebassets\\css\\register.d6a35621.css"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\arrow2.9cb9648d.svg",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\arrow2.9cb9648d.svg",
       "PackagePath": "staticwebassets\\img\\arrow2.9cb9648d.svg"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\breadcrumb.31bd9686.svg",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\breadcrumb.31bd9686.svg",
       "PackagePath": "staticwebassets\\img\\breadcrumb.31bd9686.svg"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\checkmark.87d39455.svg",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\checkmark.87d39455.svg",
       "PackagePath": "staticwebassets\\img\\checkmark.87d39455.svg"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\close.cb12eddc.svg",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\close.cb12eddc.svg",
       "PackagePath": "staticwebassets\\img\\close.cb12eddc.svg"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\play.c4fc04ea.svg",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\play.c4fc04ea.svg",
       "PackagePath": "staticwebassets\\img\\play.c4fc04ea.svg"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\img\\poster-placeholder.png",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\img\\poster-placeholder.png",
       "PackagePath": "staticwebassets\\img\\poster-placeholder.png"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\app.76b4fd5a.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\app.76b4fd5a.js",
       "PackagePath": "staticwebassets\\js\\app.76b4fd5a.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\app.76b4fd5a.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\app.76b4fd5a.js.map",
       "PackagePath": "staticwebassets\\js\\app.76b4fd5a.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\chunk-vendors.182d3d50.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\chunk-vendors.182d3d50.js",
       "PackagePath": "staticwebassets\\js\\chunk-vendors.182d3d50.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\chunk-vendors.182d3d50.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\chunk-vendors.182d3d50.js.map",
       "PackagePath": "staticwebassets\\js\\chunk-vendors.182d3d50.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\favorites.c1e61f74.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\favorites.c1e61f74.js",
       "PackagePath": "staticwebassets\\js\\favorites.c1e61f74.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\favorites.c1e61f74.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\favorites.c1e61f74.js.map",
       "PackagePath": "staticwebassets\\js\\favorites.c1e61f74.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\genres.list.54f95426.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\genres.list.54f95426.js",
       "PackagePath": "staticwebassets\\js\\genres.list.54f95426.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\genres.list.54f95426.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\genres.list.54f95426.js.map",
       "PackagePath": "staticwebassets\\js\\genres.list.54f95426.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\genres.view.98897bf3.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\genres.view.98897bf3.js",
       "PackagePath": "staticwebassets\\js\\genres.view.98897bf3.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\genres.view.98897bf3.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\genres.view.98897bf3.js.map",
       "PackagePath": "staticwebassets\\js\\genres.view.98897bf3.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\login.2f0faba0.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\login.2f0faba0.js",
       "PackagePath": "staticwebassets\\js\\login.2f0faba0.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\login.2f0faba0.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\login.2f0faba0.js.map",
       "PackagePath": "staticwebassets\\js\\login.2f0faba0.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\logout.26c41b02.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\logout.26c41b02.js",
       "PackagePath": "staticwebassets\\js\\logout.26c41b02.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\logout.26c41b02.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\logout.26c41b02.js.map",
       "PackagePath": "staticwebassets\\js\\logout.26c41b02.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\movie.view.1451862a.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\movie.view.1451862a.js",
       "PackagePath": "staticwebassets\\js\\movie.view.1451862a.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\movie.view.1451862a.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\movie.view.1451862a.js.map",
       "PackagePath": "staticwebassets\\js\\movie.view.1451862a.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\movies.latest.f7a5caa3.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\movies.latest.f7a5caa3.js",
       "PackagePath": "staticwebassets\\js\\movies.latest.f7a5caa3.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\movies.latest.f7a5caa3.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\movies.latest.f7a5caa3.js.map",
       "PackagePath": "staticwebassets\\js\\movies.latest.f7a5caa3.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\people.list.2a90c2bb.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\people.list.2a90c2bb.js",
       "PackagePath": "staticwebassets\\js\\people.list.2a90c2bb.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\people.list.2a90c2bb.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\people.list.2a90c2bb.js.map",
       "PackagePath": "staticwebassets\\js\\people.list.2a90c2bb.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\people.view.8e406900.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\people.view.8e406900.js",
       "PackagePath": "staticwebassets\\js\\people.view.8e406900.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\people.view.8e406900.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\people.view.8e406900.js.map",
       "PackagePath": "staticwebassets\\js\\people.view.8e406900.js.map"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\register.c725c442.js",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\register.c725c442.js",
       "PackagePath": "staticwebassets\\js\\register.c725c442.js"
     },
     {
-      "Id": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\wwwroot\\js\\register.c725c442.js.map",
+      "Id": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\wwwroot\\js\\register.c725c442.js.map",
       "PackagePath": "staticwebassets\\js\\register.c725c442.js.map"
     },
     {
