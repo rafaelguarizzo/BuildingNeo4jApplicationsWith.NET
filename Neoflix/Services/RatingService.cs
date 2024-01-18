@@ -53,14 +53,41 @@ namespace Neoflix.Services
         /// A task that represents the asynchronous operation.<br/>
         /// The task result contains a movie record with a rating property appended.
         /// </returns>
-        // tag::add[]
         public async Task<Dictionary<string, object>> AddAsync(string userId, string tmdbId, int rating)
         {
-            // TODO: Convert the native integer into a Neo4j Integer
-            // TODO: Save the rating in the database
-            // TODO: Return movie details and a rating
-            return await Task.FromResult(Fixtures.Goodfellas);
+            await using var session = _driver.AsyncSession();
+
+            var updatedMovie = await session.ExecuteWriteAsync(async tx =>
+            {
+                var cursor = await tx.RunAsync(@"
+                    MATCH (u:User {userId: $userId})
+                    MATCH (m:Movie {tmdbId: $tmdbId})
+            
+                    MERGE (u)-[r:RATED]->(m)
+                    SET r.rating = $rating,
+                        r.timestamp = timestamp()
+            
+                    RETURN m {
+                        .*,
+                        rating: r.rating
+                    } as movie", new
+                        {
+                            userId,
+                            tmdbId,
+                            rating
+                        });
+
+                if (!await cursor.FetchAsync())
+                    return null;
+
+                return cursor.Current["movie"].As<Dictionary<string, object>>();
+            });
+
+            if (updatedMovie == null)
+                throw new NotFoundException($"Could not create rating for Movie: {tmdbId} for User: {userId}");
+
+            return updatedMovie;
         }
-        // end::add[]
+
     }
 }

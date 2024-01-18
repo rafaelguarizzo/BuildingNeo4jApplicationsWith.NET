@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IidrrHJ3sYkD6bk1hdtdl9tkaJGbNa4AGkrvnULh05ViVwSNusre5WJG0RW5vcLPWRrBe+wJbKPBMHlCw9f4Tg==",
+  "dgSpecHash": "J4rIb4upZNowBBwyF5/4XdKoNEc4m4gZOhjyl1DUrVt380ItOf8vITcMPbs1rF7zyZyijwNfGv0SdfxK6jVE/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix\\Neoflix.csproj",
+  "projectFilePath": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix\\Neoflix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guarizzo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Guarizzo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33W2EcsoZ4h1DXebpks5IJf2SQnHJdkzsiZz2OOWgs9e933bkaOpYh5SC59BO7xawz/0b8KiE4hoDFuJ7tvF2w==",
+  "dgSpecHash": "69FnSOhhO8l8LVwF/0E3bmuT44VMm9QtriiSgmWRCJXF7nfr8lFA/+IaNHa0U/fz8YpKs4mq7v4frdpQmq4UhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guarizzo\\Documents\\Cursos\\Neo4j\\app-dotnet\\Neoflix.Challenges\\Neoflix.Challenges.csproj",
+  "projectFilePath": "C:\\Users\\Guarizzo\\Documents\\GitHub\\Neo4J\\BuildingNeo4jApplicationsWith.NET\\Neoflix.Challenges\\Neoflix.Challenges.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guarizzo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Guarizzo\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
